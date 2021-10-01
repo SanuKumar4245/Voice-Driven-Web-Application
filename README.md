@@ -2,7 +2,7 @@
 User Manual:
 1.	First we have to run the python main.py file to open the web browser.
 2.	The voice assistant will ask for the command. The following are the commands which will help to open the websites and navigate through them:-
-	Google:-
+Google:-
 •	Open Google: It will open Google home page in new tab.
 •	Login Google: You can login Google using your ID and Password.
 •	Search Google: You can use the Google search to search anything on Google.
