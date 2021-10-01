@@ -38,7 +38,7 @@ speak("Hello zixer! I am now online..")
 gender=1
 
     #  <-----------------------------------------Check Point--------------------------------------------------------------> 
-hello
+# hello
 
 while True:
     speak("How can I help you?")
